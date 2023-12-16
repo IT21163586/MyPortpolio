@@ -49,7 +49,7 @@ ScrollReveal().reveal('.home-content p, .about-content, #contact-fb', { origin: 
 
 
 const typed = new Typed('.multiple-text',{
-    strings: ['Front-End Developer', 'Back-End Developer', 'UI Designer'],
+    strings: ['Front-End Developer', 'Back-End Developer', 'UI Designer','UI Designer'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
